@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
-<p align="left"><a href="https://github.com/Zorono?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Zorono&color=red" alt="[BR]John_Magdy"></a></p>
 
 i live in **Egypt** and was born in 16th of Sept, i started to learn programming in the earlier ages.
 i am interested in Multipurpose **Coding** specially **Back-end Developments**.

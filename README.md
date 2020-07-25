@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is John Magdy Lotfy Kamel,
+My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
+
 i live in **Egypt** and was born in 16th of Sept.
-i am interested in Multipurpose **Coding**.
+i am interested in Multipurpose **Coding** specially **Back-end Developments**.
+i am Experienced with a wide variety of creative tools and technical skills.
 i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming** with a **SATDM** special edit which was originally created by **Money$Pimp**...
 <!--
 **Zorono/Zorono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

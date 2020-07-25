@@ -1,12 +1,15 @@
 ### Hi there 👋
 My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
+<p align="left"><a href="https://github.com/Zorono?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Zorono&color=red" alt="[BR]John_Magdy"></a></p>
 
-i live in **Egypt** and was born in 16th of Sept.
+i live in **Egypt** and was born in 16th of Sept, i started to learn programming in the earlier ages.
 i am interested in Multipurpose **Coding** specially **Back-end Developments**.
 i am Experienced with a wide variety of creative tools and technical skills.
 i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming** with a **SATDM** special edit which was originally created by **Money$Pimp**...
 
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 <!--
 **Zorono/Zorono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,6 +6,8 @@ i am interested in Multipurpose **Coding** specially **Back-end Developments**.
 i am Experienced with a wide variety of creative tools and technical skills.
 i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming** with a **SATDM** special edit which was originally created by **Money$Pimp**...
 
+
+[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20John%20Magdy%20Lotfy&style=social&url=https%3A%2F%2Ftwitter.com%2Fbrtdmfounder)](https://twitter.com/brtdmfounder)
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)

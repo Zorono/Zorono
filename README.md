@@ -5,6 +5,10 @@
 [![John Magdy Lotfy Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=dark)](https://gitlab.com/Zorono)
 [![John Magdy Lotfy Bitbucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=dark)](https://bitbucket.org/Zorono)
 
+[![John Magdy Lotfy Twitter](https://img.shields.io/twitter/follow/brtdmfounder?style=social)](https://twitter.com/brtdmfounder)
+[![John Magdy Lotfy GitHub followers](https://img.shields.io/github/followers/Zorono?label=Follow%20%40Zorono&style=social)](https://github.com/Zorono?tab=followers)
+<!--[![John Magdy Lotfy Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8704593?logo=stackoverflow&style=plastic)](https://stackoverflow.com/users/8704593/zorono)-->
+
 My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
 
 i live in **Egypt** and was born in **16th of Sept**, i started to learn programming in the earlier times of my life.
@@ -12,14 +16,12 @@ i am interested in Multipurpose **Coding** specially **Back-end Developments**.
 i am Experienced with a wide variety of creative tools and technical skills.
 i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming** with a **SATDM** special edit which was originally created by **Money$Pimp**...
 
-[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20John%20Magdy%20Lotfy&style=social&url=https%3A%2F%2Ftwitter.com%2Fbrtdmfounder)](https://twitter.com/brtdmfounder)
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
-<hr />
-
-[![John Magdy Lotfy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8704593&show_icons=true&layout=compact&theme=dark)](https://stackoverflow.com/users/8704593/zorono)
-
+<!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
+[![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
+
 <!--
 **Zorono/Zorono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

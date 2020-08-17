@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Latest Activity
+💪 Opened PR #11 in dashr9230/SAMPE
+⬆️ Pushed 1 commit to Zorono/SAMPC
 🗣 Commented on #3448 in simple-icons/simple-icons
 🍴 Forked Zorono/facebook-clone from devomar24/facebook-clone
 ❗️ Opened issue #3448 in simple-icons/simple-icons
-⬆️ Pushed 1 commit to Zorono/Zorono
-⬆️ Pushed 1 commit to Zorono/Zorono
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Sunday 16, August 2020, 2:06:04 PM
+Last Updated: Monday 17, August 2020, 2:11:44 AM

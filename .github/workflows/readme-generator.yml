@@ -3,7 +3,7 @@ on:
     - cron: 0 */12 * * *
 
 jobs:
-  publish,manual_deploy:
+  publish:
     runs-on: ubuntu-latest
     steps:
     - name: Clear Git's leftovers(just incase...)

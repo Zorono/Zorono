@@ -1,10 +1,9 @@
 on:
-  workflow_run:
   schedule:
     - cron: 0 */12 * * *
 
 jobs:
-  publish:
+  publish,manual_deploy:
     runs-on: ubuntu-latest
     steps:
     - name: Clear Git's leftovers(just incase...)

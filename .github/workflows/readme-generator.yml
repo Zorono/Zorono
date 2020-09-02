@@ -6,6 +6,11 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+    - name: Clear Git's leftovers(just incase...)
+      run: |
+        git rm --cached .
+        git reset HEAD .
+        git status
     - uses: actions/checkout@master
       with:
         persist-credentials: false

@@ -1,9 +1,6 @@
 on:
   workflow_dispatch:
-    # Inputs the workflow accepts.
-    inputs:
-      name:
-        description: 'Generate new readme.md'
+    - description: 'Generate new readme.md'
   schedule:
     - cron: 0 */12 * * *
 

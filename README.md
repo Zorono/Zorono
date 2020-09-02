@@ -26,4 +26,4 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 1, September 2020, 2:06:17 PM
+Last Updated: Wednesday 2, September 2020, 2:12:51 AM

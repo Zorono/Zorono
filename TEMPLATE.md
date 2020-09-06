@@ -14,11 +14,11 @@ My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Ma
 i live in **Egypt** and was born in **16th of Sept**, i started to learn programming in the earlier times of my life.
 i am interested in Multipurpose **Coding** specially **Back-end Developments**.
 i am Experienced with a wide variety of creative tools and technical skills.
-i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming**([@BrownTurbo](https://github.com/BrownTurbo)) with a **SATDM** special edit which was originally created by **Money$Pimp**...
+i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo Gaming**([@BrownTurbo](https://github.com/BrownTurbo "BrownTurbo Gaming")) with a **SATDM** special edit which was originally created by **Money$Pimp** for [San Andreas Multiplayer](https://sa-mp.com)...
 
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
-## Latest Activity
+## Recent Activity
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)

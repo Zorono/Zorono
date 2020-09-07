@@ -19,7 +19,7 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
-⬆️ Pushed 1 commit to Zorono/Zorono
+🗣 Commented on #5564 in PowerShell/PowerShell
 ⬆️ Pushed 1 commit to Zorono/Zorono
 ⬆️ Pushed 1 commit to Zorono/Zorono
 ⬆️ Pushed 1 commit to Zorono/Zorono
@@ -28,4 +28,4 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 7, September 2020, 2:23:54 AM
+Last Updated: Monday 7, September 2020, 2:11:01 PM

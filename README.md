@@ -19,6 +19,7 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+❗️ Opened issue #1809 in multitheftauto/mtasa-blue
 ❗️ Opened issue #19 in Subtixx/vscode-mtalua
 🍴 Forked Zorono/samp-guides from rabeehrz/samp-guides
 🗣 Commented on #339 in Clefspeare13/pornhosts
@@ -27,4 +28,4 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 9, November 2020, 2:21:24 AM
+Last Updated: Monday 9, November 2020, 2:10:42 PM

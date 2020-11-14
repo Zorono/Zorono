@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+❗️ Closed issue #19 in Subtixx/vscode-mtalua
+🗣 Commented on #19 in Subtixx/vscode-mtalua
+🍴 Forked Zorono/vscode-mtalua from Subtixx/vscode-mtalua
 ⬆️ Pushed 1 commit to Zorono/awful-guides
 ⬆️ Pushed 1 commit to Zorono/samp-guides
-🗣 Commented on #1809 in multitheftauto/mtasa-blue
-❗️ Opened issue #1809 in multitheftauto/mtasa-blue
-❗️ Opened issue #19 in Subtixx/vscode-mtalua
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Saturday 14, November 2020, 2:19:36 AM
+Last Updated: Saturday 14, November 2020, 2:08:47 PM

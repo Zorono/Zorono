@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+🗣 Commented on #111629 in microsoft/vscode
+🗣 Commented on #111629 in microsoft/vscode
+❗️ Opened issue #111629 in microsoft/vscode
 ❗️ Closed issue #379 in shiftkey/desktop
 🗣 Commented on #379 in shiftkey/desktop
-❗️ Opened issue #379 in shiftkey/desktop
-❗️ Opened issue #676 in phw/peek
-🗣 Commented on #5054 in ShareX/ShareX
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 1, December 2020, 2:12:00 PM
+Last Updated: Wednesday 2, December 2020, 2:23:54 AM

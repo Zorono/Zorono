@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+🍴 Forked Zorono/fourth-edition from head-first-csharp/fourth-edition
 🗣 Commented on #111629 in microsoft/vscode
 🗣 Commented on #111629 in microsoft/vscode
 🗣 Commented on #111629 in microsoft/vscode
 ❗️ Opened issue #111629 in microsoft/vscode
-❗️ Closed issue #379 in shiftkey/desktop
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 15, December 2020, 2:13:29 PM
+Last Updated: Wednesday 16, December 2020, 2:26:29 AM

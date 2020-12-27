@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+⬆️ Pushed 1 commit to Zorono/awful-guides
+⬆️ Pushed 2 commits to Zorono/awful-guides
+❗️ Opened issue #18 in tgreen7/vscode_extension_node_require
 ⬆️ Pushed 1 commit to Zorono/vscode-pawn
 🗣 Commented on #252 in expressjs/morgan
-💪 Opened PR #252 in expressjs/morgan
-⬆️ Pushed 1 commit to Zorono/morgan
-🍴 Forked Zorono/morgan from expressjs/morgan
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Sunday 27, December 2020, 2:34:32 AM
+Last Updated: Sunday 27, December 2020, 2:14:50 PM

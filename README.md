@@ -19,13 +19,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+🍴 Forked Zorono/free-programming-books from EbookFoundation/free-programming-books
 🗣 Commented on #229 in 3rd-Eden/memcached
 🗣 Commented on #302 in 3rd-Eden/memcached
 ❗️ Opened issue #101 in animir/node-rate-limiter-flexible
 ⬆️ Pushed 1 commit to Zorono/awful-guides
-⬆️ Pushed 2 commits to Zorono/awful-guides
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Thursday 7, January 2021, 2:44:19 AM
+Last Updated: Thursday 7, January 2021, 2:18:07 PM

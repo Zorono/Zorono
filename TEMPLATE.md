@@ -9,6 +9,8 @@
 [![John Magdy Lotfy GitHub followers](https://img.shields.io/github/followers/Zorono?label=Follow%20%40Zorono&style=social)](https://github.com/Zorono?tab=followers)
 <!--[![John Magdy Lotfy Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8704593?logo=stackoverflow&style=plastic)](https://stackoverflow.com/users/8704593/zorono)-->
 
+[<img src="/ko-fi.png" alt="Buy John Magdy Lotfy a Coffe" height="40" width="180" />](https://paypal.me/BrownTurbo)
+
 My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
 
 i live in **Egypt** and was born in **16th of Sept**, i started to learn programming in the earlier times of my life.

@@ -9,6 +9,8 @@
 [![John Magdy Lotfy GitHub followers](https://img.shields.io/github/followers/Zorono?label=Follow%20%40Zorono&style=social)](https://github.com/Zorono?tab=followers)
 <!--[![John Magdy Lotfy Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8704593?logo=stackoverflow&style=plastic)](https://stackoverflow.com/users/8704593/zorono)-->
 
+[<img src="/ko-fi.png" alt="Buy John Magdy Lotfy a Coffe" height="40" width="180" />](https://paypal.me/BrownTurbo)
+
 My name is **John Magdy Lotfy Kamel** also Known as **Zorono** and **[BR]John_Magdy**,
 
 i live in **Egypt** and was born in **16th of Sept**, i started to learn programming in the earlier times of my life.
@@ -19,10 +21,12 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+🗣 Commented on #5 in George480/geolite
+⬆️ Pushed 1 commit to Zorono/Zorono
+⬆️ Pushed 1 commit to Zorono/Zorono
 🍴 Forked Zorono/naming-cheatsheet from kettanaito/naming-cheatsheet
-🍴 Forked Zorono/free-science-books from EbookFoundation/free-science-books
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 2, March 2021, 2:11:04 PM
+Last Updated: Wednesday 3, March 2021, 2:24:16 AM

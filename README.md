@@ -21,13 +21,13 @@ i started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+❗️ Closed issue #93 in Pottus/ColAndreas
+🗣 Commented on #93 in Pottus/ColAndreas
+❗️ Opened issue #93 in Pottus/ColAndreas
 ⬆️ Pushed 1 commit to Zorono/Zorono
 🗣 Commented on #5 in George480/geolite
-⬆️ Pushed 1 commit to Zorono/Zorono
-⬆️ Pushed 1 commit to Zorono/Zorono
-🍴 Forked Zorono/naming-cheatsheet from kettanaito/naming-cheatsheet
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 8, March 2021, 2:13:43 PM
+Last Updated: Tuesday 9, March 2021, 2:24:57 AM

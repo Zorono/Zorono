@@ -21,13 +21,13 @@ I started a **Gaming** community in the mid of 2015 which is called **BrownTurbo
 - 📫 You can reach me on Discord: **[BR]John_Magdy#8791**
 
 ## Recent Activity
+❗️ Opened issue #30 in arindam-m/pyslapi
 ⬆️ Pushed 1 commit to Zorono/Zorono
 ❗️ Closed issue #660 in pawn-lang/compiler
 🗣 Commented on #660 in pawn-lang/compiler
 ❗️ Opened issue #660 in pawn-lang/compiler
-💪 Opened PR #13 in davidbombal/red-python-scripts
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 21, June 2021, 2:15:58 PM
+Last Updated: Tuesday 22, June 2021, 2:32:28 AM

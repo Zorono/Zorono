@@ -17,7 +17,7 @@ I am Experienced with a wide variety of creative tools and technical skills.<br/
 I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gaming</b>([@BrownTurbo](https://github.com/BrownTurbo "BrownTurbo Gaming")) with a <b>SATDM</b> special edit originally created by <b>Money$Pimp</b> for [San Andreas Multiplayer](https://sa-mp.com)...<br/>
   
 - 📫 You can reach me on Discord: <b>[BR]John_Magdy#8791</b>
-- 💌 You can reach me by E-Mailing me: <a href="mailto:johnmagdy437@yahoo.com" target="_blank"><b>johnmagdy437@yahoo.com</b></a>
+- 💌 You can send me E-Mail: <a href="mailto:johnmagdy437@yahoo.com" target="_blank"><b>johnmagdy437@yahoo.com</b></a>
 - 🌍 You can reach me on Facebook: <a href="https://facebook.com/BR.Zorono" target="_blank"><b>@BR.Zorono</b></a>
 
  💡 &nbsp;I like to explore new trends and learn new technologies.<br/>

@@ -18,7 +18,7 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
  💳 &nbsp;Feel free to support me through <a href="https://paypal.me/BrownTurbo" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Paypal</b></a>, <a href="https://www.buymeacoffee.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>BuyMeACoffee</b></a>, <a href="https://www.patreon.com/brzorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Patreon</b></a>, <a href="https://ko-fi.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Ko-Fi</b></a> and <a href="https://opencollective.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>OpenCollective</b></a>.
 
 💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
-i do stand with Ukrainians 🇺🇦
+<br/>⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
 ⬆️ Pushed 1 commit to Zorono/Zorono

@@ -1,0 +1,23 @@
+on:
+  schedule:
+    - cron: 0 */12 * * *
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+    - name: Create README.md
+      uses: actions-js/profile-readme@master
+      with:
+        username: Zorono
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        template: ./TEMPLATE.md # default is ./TEMPLATE.md
+        readme: ./README.md # default is ./README.md
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

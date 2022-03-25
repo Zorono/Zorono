@@ -21,13 +21,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br/>⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
-🍴 Forked Zorono/ftprivacy from ftpmorph/ftprivacy
-🍴 Forked Zorono/neodevhost from neodevpro/neodevhost
-⬆️ Pushed 6 commits to Zorono/samp-weapon-config
-⬆️ Pushed 4 commits to Zorono/YSF
-⬆️ Pushed 1 commit to Zorono/TwitterIPLists
+❗️ Opened issue #1932 in StevenBlack/hosts
+⬆️ Pushed 1 commit to Zorono/free-programming-books
+⬆️ Pushed 77 commits to Zorono/FacebookIPLists
+⬆️ Pushed 155 commits to Zorono/Tor-IP-Addresses
+⬆️ Pushed 77 commits to Zorono/LinkedInIPLists
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Thursday 24, March 2022, 2:34:15 PM
+Last Updated: Friday 25, March 2022, 3:24:53 AM

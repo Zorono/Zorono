@@ -21,13 +21,9 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br/>⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
-🍴 Forked Zorono/Web-Dev-For-Beginners from microsoft/Web-Dev-For-Beginners
-🍴 Forked Zorono/VisualTexture_Pawn_SA-MP from KaizerHind/VisualTexture_Pawn_SA-MP
-🍴 Forked Zorono/Release-Files-SAMP from KaizerHind/Release-Files-SAMP
-⬆️ Pushed 1 commit to BrownTurbo/.github
-⬆️ Pushed 1 commit to BrownTurbo/.github
+
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 13, June 2022, 2:40:21 PM
+Last Updated: Tuesday 14, June 2022, 4:06:04 AM

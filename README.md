@@ -19,11 +19,3 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 
 💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
 <br/>⚫ &nbsp;i do stand with Ukrainians 🇺🇦
-
-## Recent Activity
-
-<!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
-[![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
-[![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
-
-Last Updated: Sunday 10, July 2022, 4:11:37 AM

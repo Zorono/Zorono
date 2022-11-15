@@ -22,13 +22,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
-⬆️ Pushed 1 commit to Zorono/amx
-⬆️ Pushed 1 commit to Zorono/SAMP2MTA
-⬆️ Pushed 1 commit to Zorono/amx
-⬆️ Pushed 1 commit to Zorono/SAMP2MTA
-⬆️ Pushed 3 commits to Zorono/amx
+⬆️ Pushed 2 commits to Zorono/SAMP2MTA
+❌ Closed PR #95 in multitheftauto/amx
+❌ Closed PR #94 in multitheftauto/amx
+❌ Closed PR #93 in multitheftauto/amx
+❌ Closed PR #92 in multitheftauto/amx
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Monday 14, November 2022, 4:35:34 PM
+Last Updated: Tuesday 15, November 2022, 3:00:05 AM

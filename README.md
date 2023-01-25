@@ -22,13 +22,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
-🍴 Forked Zorono/samp-packet-proxy from dennorske/samp-packet-proxy
-❗️ Opened issue #1 in openmultiplayer/compiler
-🍴 Forked Zorono/Source-Code-from-Tutorials from buckyroberts/Source-Code-from-Tutorials
-🍴 Forked Zorono/http_server from Dungyichao/http_server
-🗣 Commented on #227 in openmultiplayer/server-beta
+⬆️ Pushed 9 commits to Just-Archives/samp-weapon-config
+⬆️ Pushed 21 commits to Just-Archives/mtasa-resources
+⬆️ Pushed 20 commits to Just-Archives/amx_assembly
+⬆️ Pushed 19 commits to Just-Archives/sampctl
+⬆️ Pushed 2 commits to Just-Archives/librw
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Wednesday 25, January 2023, 2:50:32 AM
+Last Updated: Wednesday 25, January 2023, 2:19:38 PM

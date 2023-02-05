@@ -23,13 +23,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
+❗️ Opened issue #7 in openmultiplayer/vscode-pawn
 🍴 Forked Zorono/samp-discord-connector from maddinat0r/samp-discord-connector
 🍴 Forked Zorono/getting-started-with-soldering from raspberrypilearning/getting-started-with-soldering
 🍴 Forked Zorono/python-curriculum from RaspberryPiFoundation/python-curriculum
 ⬆️ Pushed 23 commits to Just-Archives/open.mp
-🍴 Forked Zorono/VueLearnNotes from zhangtianyi0110/VueLearnNotes
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Sunday 5, February 2023, 2:56:39 AM
+Last Updated: Sunday 5, February 2023, 2:16:25 PM

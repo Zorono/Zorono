@@ -23,13 +23,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
-❗️ Opened issue #2239 in StevenBlack/hosts
-❗️ Opened issue #3304 in fmtlib/fmt
-⬆️ Pushed 1 commit to Zorono/SAMP2MTA
-⬆️ Pushed 1 commit to Zorono/SAMP2MTA
-❗️ Opened issue #7 in openmultiplayer/vscode-pawn
+⬆️ Pushed 1 commit to Just-Archives/Nex-AC
+⬆️ Pushed 67 commits to Just-Archives/mtasa
+⬆️ Pushed 20 commits to Just-Archives/YSI-Includes
+⬆️ Pushed 20 commits to Just-Archives/gta-reversed-modern
+⬆️ Pushed 26 commits to Just-Archives/mtasa-resources
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 28, February 2023, 2:54:58 AM
+Last Updated: Tuesday 28, February 2023, 2:19:39 PM

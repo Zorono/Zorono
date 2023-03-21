@@ -13,6 +13,7 @@ I am Experienced with a wide variety of creative tools and technical skills.<br/
 I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gaming</b>([@BrownTurbo](https://github.com/BrownTurbo "BrownTurbo Gaming")) with a <b>SATDM</b> special edit originally created by <b>Money$Pimp</b> for [San Andreas Multiplayer](https://sa-mp.com)...<br/>
   
 - 📫 You can reach me on Discord: <b>[BR]John_Magdy#8791</b>
+- 📫 You can contact me through mail: <a href="mailto://thunderkick@bk.ru"><b>thunderkick@bk.ru</b></a>
 
  💡 &nbsp;I like to explore new trends and learn new technologies.<br/>
  💳 &nbsp;Feel free to support me through <a href="https://paypal.me/BrownTurbo" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Paypal</b></a>, <a href="https://www.buymeacoffee.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>BuyMeACoffee</b></a>, <a href="https://www.patreon.com/brzorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Patreon</b></a>, <a href="https://ko-fi.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Ko-Fi</b></a> and <a href="https://opencollective.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>OpenCollective</b></a>.

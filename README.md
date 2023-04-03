@@ -24,8 +24,8 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
+❗️ Opened issue #11 in flathub/org.bluej.BlueJ
 ⬆️ Pushed 3 commits to Just-Archives/open.mp
-⬆️ Pushed 1 commit to Zorono/SAMP2MTA
 ⬆️ Pushed 1 commit to Zorono/SAMP2MTA
 ⬆️ Pushed 1 commit to Zorono/SAMP2MTA
 ⬆️ Pushed 1 commit to Zorono/SAMP2MTA
@@ -33,4 +33,4 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Sunday 2, April 2023, 2:15:31 PM
+Last Updated: Monday 3, April 2023, 2:47:05 AM

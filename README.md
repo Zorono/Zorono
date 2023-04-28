@@ -24,13 +24,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 
 ## Recent Activity
+🗣 Commented on #285 in NexiusTailer/Nex-AC
 ❗️ Opened issue #285 in NexiusTailer/Nex-AC
 ❗️ Opened issue #4 in openmultiplayer/compiler
 ❗️ Opened issue #3 in openmultiplayer/compiler
 ❗️ Opened issue #2 in openmultiplayer/compiler
-❗️ Opened issue #1 in vwbusguy/ibus-coptic
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Thursday 27, April 2023, 2:16:23 PM
+Last Updated: Friday 28, April 2023, 2:49:29 AM

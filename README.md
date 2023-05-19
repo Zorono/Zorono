@@ -15,8 +15,9 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 - 📫 You can reach me on Discord: <b>[BR]John_Magdy#8791</b>
 - 📫 You can contact me through mail: <a href="mailto://thunderkick@bk.ru"><b>thunderkick@bk.ru</b></a>
 
- 💡 &nbsp;I like to explore new trends and learn new technologies.<br/>
- 💳 &nbsp;Feel free to support me through <a href="https://paypal.me/BrownTurbo" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Paypal</b></a>, <a href="https://www.buymeacoffee.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>BuyMeACoffee</b></a>, <a href="https://www.patreon.com/brzorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Patreon</b></a>, <a href="https://ko-fi.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Ko-Fi</b></a> and <a href="https://opencollective.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>OpenCollective</b></a>.
+💡 &nbsp;I like to explore new trends and learn new technologies.<br/>
+⚙️ &nbsp;I am fond of wheel re-inventing.<br/>
+💳 &nbsp;Feel free to support me through <a href="https://paypal.me/BrownTurbo" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Paypal</b></a>, <a href="https://www.buymeacoffee.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>BuyMeACoffee</b></a>, <a href="https://www.patreon.com/brzorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Patreon</b></a>, <a href="https://ko-fi.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Ko-Fi</b></a> and <a href="https://opencollective.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>OpenCollective</b></a>.
 
 😡 &nbsp;some of the humen types which I do hate: **Toxic** & **Cursed** & **Evil Clown** & **Bully Master** & **Ass hole** & **Senseless** & **Filthy**
 <br />💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
@@ -25,13 +26,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces
 
 ## Recent Activity
+⬆️ Pushed 1 commit to Zorono/Zorono
 ⬆️ Pushed 1 commit to Zorono/compiler
 ⬆️ Pushed 2 commits to Zorono/compiler
-⬆️ Pushed 1 commit to Zorono/compiler
 ⬆️ Pushed 1 commit to Zorono/compiler
 ⬆️ Pushed 1 commit to Zorono/compiler
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Friday 19, May 2023, 2:16:03 PM
+Last Updated: Saturday 20, May 2023, 1:22:03 AM

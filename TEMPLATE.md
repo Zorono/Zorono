@@ -12,7 +12,7 @@ I am interested in Multipurpose <b>Coding</b> areas specially **Back-end Develop
 I am Experienced with a wide variety of creative tools and technical skills.<br/>
 I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gaming</b>([@BrownTurbo](https://github.com/BrownTurbo "BrownTurbo Gaming")) with a <b>SATDM</b> special edit originally created by <b>Money$Pimp</b> for [San Andreas Multiplayer](https://sa-mp.com)...<br/>
   
-- 📫 You can reach me on Discord: <b>[BR]John_Magdy#8791</b>
+- 📫 You can reach me on Discord: <b>br.zorono</b> (previously <b>[BR]John_Magdy#8791</b>)
 - 📫 You can contact me through mail: <a href="mailto://thunderkick@bk.ru"><b>thunderkick@bk.ru</b></a>
 
 💡 &nbsp;I like to explore new trends and learn new technologies.<br/>

@@ -12,7 +12,7 @@ I am interested in Multipurpose <b>Coding</b> areas specially **Back-end Develop
 I am Experienced with a wide variety of creative tools and technical skills.<br/>
 I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gaming</b>([@BrownTurbo](https://github.com/BrownTurbo "BrownTurbo Gaming")) with a <b>SATDM</b> special edit originally created by <b>Money$Pimp</b> for [San Andreas Multiplayer](https://sa-mp.com)...<br/>
   
-- 📫 You can reach me on Discord: <b>[BR]John_Magdy#8791</b>
+- 📫 You can reach me on Discord: <b>br.zorono</b> (previously <b>[BR]John_Magdy#8791</b>)
 - 📫 You can contact me through mail: <a href="mailto://thunderkick@bk.ru"><b>thunderkick@bk.ru</b></a>
 
 💡 &nbsp;I like to explore new trends and learn new technologies.<br/>
@@ -26,13 +26,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces
 
 ## Recent Activity
+⬆️ Pushed 1 commit to Zorono/Zorono
 ❌ Closed PR #83 in wargio/naxsi
 🗣 Commented on #83 in wargio/naxsi
 💪 Opened PR #83 in wargio/naxsi
 🍴 Forked Zorono/wargio_naxsi from wargio/naxsi
-⬆️ Pushed 9 commits to Just-Archives/mtasa-resources
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Tuesday 27, June 2023, 2:20:34 PM
+Last Updated: Wednesday 28, June 2023, 3:02:03 AM

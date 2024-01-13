@@ -28,11 +28,8 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 ## Recent Activity
 💪 Opened PR #23 in Zorono/vscode-pawn
 ⬆️ Pushed 1 commit to Zorono/vscode-pawn
-🗣 Commented on #820 in openmultiplayer/open.mp
-💪 Opened PR #21 in Zorono/vscode-pawn
-⬆️ Pushed 1 commit to Zorono/vscode-pawn
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Friday 12, January 2024, 2:17:21 PM
+Last Updated: Saturday 13, January 2024, 2:44:19 AM

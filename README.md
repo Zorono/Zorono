@@ -26,13 +26,13 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces
 
 ## Recent Activity
-⬆️ Pushed 2 commits to Just-Archives/Texture-Studio
-⬆️ Pushed 25 commits to Just-Archives/SAMP-API
-⬆️ Pushed 2 commits to Just-Archives/amxmodx
-⬆️ Pushed 3 commits to Just-Archives/modern-pawn-compiler
-⬆️ Pushed 22 commits to Just-Archives/PawnScript
+❌ Closed PR #21 in Zorono/vscode-pawn
+❌ Closed PR #19 in Zorono/vscode-pawn
+⬆️ Pushed 2 commits to Zorono/SAMP2MTA
+🎉 Merged PR #8 in Zorono/SAMP2MTA
+⬆️ Pushed 2 commits to Zorono/SAMP2MTA
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Thursday 25, January 2024, 2:17:52 PM
+Last Updated: Friday 26, January 2024, 2:42:13 AM

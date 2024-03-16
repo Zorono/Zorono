@@ -22,7 +22,7 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 😡 &nbsp;some of the humen types which I do hate: **Toxic** & **Cursed** & **Evil Clown** & **Bully Master** & **Ass hole** & **Senseless** & **Filthy**
 <br />💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
 <br />🤔 &nbsp;FAQ: does that **BR** in your nickname refer to **Brasil** ?? - No! it stands for __**BrownTurbo**__
-<br />🤡 &nbsp;I am enthused about **security**&**backend developments**&**DevOps**&**Linux System Management**&**Administration**
+<br />🤡 &nbsp;I am fond of **security**&**backend developments**&**DevOps**&**Linux System Management**&**Administration**
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces
 

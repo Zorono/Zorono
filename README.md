@@ -22,13 +22,15 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 😡 &nbsp;some of the humen types which I do hate: **Toxic** & **Cursed** & **Evil Clown** & **Bully Master** & **Ass hole** & **Senseless** & **Filthy**
 <br />💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
 <br />🤔 &nbsp;FAQ: does that **BR** in your nickname refer to **Brasil** ?? - No! it stands for __**BrownTurbo**__
+<br />🤡 &nbsp;I am fond of **security**&**backend developments**&**DevOps**&**Linux System Management**&**Administration**
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces
 
 ## Recent Activity
-🍴 Forked Zorono/sys from p-gen/sys
+⬆️ Pushed 1 commit to Zorono/Zorono
+⬆️ Pushed 1 commit to Zorono/Zorono
 <!-- [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories)
 [![John Magdy Lotfy GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorono&show_icons=true&theme=tokyonight)](https://github.com/Zorono?tab=repositories) -->
 
-Last Updated: Saturday 16, March 2024, 2:17:15 PM
+Last Updated: Sunday 17, March 2024, 2:44:43 AM

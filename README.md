@@ -22,7 +22,7 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 <br />💩 &nbsp;non-funny FACT: Life is a crappy dump but honesty and peace and love and happiness are a necessity. 🕊☮
 <br />🤔 &nbsp;FAQ: does that **BR** in your nickname refer to **Brasil** ?? - No! it stands for __**BrownTurbo**__
 <br />🤡 &nbsp;I am fond of **security**&**backend developments**&**DevOps**&**Linux System Management**&**Administration**
-<br />🎶 &nbsp;I love **Jazz** and **Classical** music
+<br />🎶 &nbsp;I love **Jazz** and **Classic** music
 <br />❤️ &nbsp;I am fond of **vintage era**
 <br />⚫ &nbsp;i do stand with Ukrainians 🇺🇦
 > Support Ukrainians http://bank.gov.ua/en/about/humanitarian-aid-to-ukraine & http://bank.gov.ua/en/about/support-the-armed-forces

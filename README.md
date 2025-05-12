@@ -14,6 +14,7 @@ I started a <b>Gaming</b> community in the mid of 2015 called <b>BrownTurbo Gami
 - 📫 You can reach me on Discord: <b>br.zorono</b> (previously <b>[BR]John_Magdy#8791</b>)
 - 📫 You can contact me through mail: <a href="mailto://thunderkick@bk.ru"><b>thunderkick@bk.ru</b></a>
 
+📚 &nbsp;I am currently learning Typescript.<br/>
 💡 &nbsp;I like to explore new trends and learn new technologies.<br/>
 ⚙️ &nbsp;I am fond of wheel re-inventing.<br/>
 💳 &nbsp;Feel free to support me through <a href="https://paypal.me/BrownTurbo" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Paypal</b></a>, <a href="https://www.buymeacoffee.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>BuyMeACoffee</b></a>, <a href="https://www.patreon.com/brzorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Patreon</b></a>, <a href="https://ko-fi.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>Ko-Fi</b></a> and <a href="https://opencollective.com/zorono" alt="Buy John Magdy Lotfy a Coffe" target="_blank"><b>OpenCollective</b></a>.
